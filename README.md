@@ -9,7 +9,6 @@ Criptabit is an Android app that tracks and displays prices, charts, markets, an
 
 <div align="centre">
 <img src="Images/splash.jpg" height='auto' width='270' alt="Splash Screen"/>
-<img src="Images/login.jpg" height='auto' width='270'/>
 <img src="Images/signup.jpg" height='auto' width='270'/>
 <img src="Images/forgot.jpg" height='auto' width='270'/>
 <img src="Images/profile.png" height='auto' width='270'/>
